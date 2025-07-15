@@ -100,5 +100,5 @@ Open it using Jupyter Notebook or Jupyter Lab.
 
 ## 👤 Author
 
-Jami Bhargav Venkat
+Jami Bhargav Venkat  
 GitHub: [@bhargavjami](https://github.com/bhargavjami)
